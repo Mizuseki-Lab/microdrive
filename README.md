@@ -11,8 +11,9 @@ The original idea of the drive is described in the following paper.
 
 Micro-drive and headgear for chronic implant and recovery of optoelectronic probes
 Jinho Chung, Farnaz Sharif, Dajung Jung, Soyoun Kim & Sebastien Royer
-Scientific Reportsvolume 7, Article number: 2773 (2017)
+Scientific Reports volume 7, Article number: 2773 (2017)
 doi:10.1038/s41598-017-03340-5
 https://www.nature.com/articles/s41598-017-03340-5
 
 The designs are desitributed under GNU GPLv3 license.
+The source file in f3d format is available upon request.
