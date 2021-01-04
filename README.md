@@ -16,4 +16,4 @@ doi:10.1038/s41598-017-03340-5
 https://www.nature.com/articles/s41598-017-03340-5
 
 The designs are desitributed under GNU GPLv3 license.
-The source file in f3d format is available upon request.
+The source file in f3d format can be found at /f3d/
