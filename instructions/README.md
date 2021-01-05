@@ -64,8 +64,9 @@ Another extreme angle (the same attachment but different screw positioning)
 The .stl files are optimized for Asiga Pico2 HD with NextDent Model.
 For other printers and/or resins, some adjustment may be needed.
 
-The drive is designed for a 1/2-inche 00-90 screw and a metal pole taken from a post terminal strip.
-The attachment is intended to be used with 3/8-inche 00-90 screws.
+The drive is designed for a 1/2-inch 00-90 screw and a metal pole taken from a post terminal strip.
+The attachment is intended to be used with 3/8-inch 00-90 screws.
+To build the variangle attachment, 1/4-inch 000-120 screws and nuts are also needed.
 
 The original idea of the drive is described in the following paper.
 
