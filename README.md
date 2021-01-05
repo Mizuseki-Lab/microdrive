@@ -18,3 +18,12 @@ https://www.nature.com/articles/s41598-017-03340-5
 
 The designs are desitributed under GNU GPLv3 license.
 The source file in f3d format can be found at /f3d/
+
+* * *
+Further customization has been done by Mihály Vöröslakos.
+His design files are avirable at https://github.com/buzsakilab/3d_print_designs/tree/master/Microdrives/Plastic_recoverable
+
+Also elaborated instraction videos are on youtube, which is helpful to build our dirve as well
+1. Microdrive assembly:  https://youtu.be/rjxaH515N64 
+2. Probe attachment to microdrive:  https://youtu.be/2L5RHcbsU7o 
+3. Probe recovery:   https://youtu.be/T5gyuZVKXo8 
