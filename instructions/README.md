@@ -1,8 +1,6 @@
 # quick instructions of the microdrive
 
 ## how the assembled drive looks like
-[video showing the drive](assembledDrive.mp4)
-
 Side view  
 <img src="sideview.jpg" width="480" />  
 
@@ -10,9 +8,19 @@ Back view
 <img src="backview.jpg" width="480" />  
 
 ## how the drive works
+![gif showing how the drive works](howItWorks.gif)  
 [video showing how the drive works](howItWorks.mp4)
 
 ## how to assemble
+1. put the holder on the drive  
+![video showing assembling process 1](assemble01.gif)  
+
+2. set the drive on the base  
+![video showing assembling process 2](assemble02.gif)  
+
+3. put the attachment on the holder  
+![video showing assembling process 3](assemble03.gif)  
+
 [video showing assembling process](assemble.mp4)
 
 ## how to implant the probe (demo with a mock)
@@ -38,15 +46,18 @@ Back view
 
 ## how the variangle attachment works
 when the screws are loose, the angles can be changed  
-[video showing variangle attachment (screws are loose)](variangle.mp4)
-
+![gif showing variangle attachment (screws are loose)](variangle.gif)  
 when all 3 screws are pushing the bottom plate, the angle is fixed.  
+![gif showing variangle attachment (screws are tight)](assembledDrive.gif)  
 
 One extreme angle  
 <img src="extremeAngle.jpg" width="480" />  
 
 Another extreme angle (the same attachment but different screw positioning)  
 <img src="anotherExtremeAngle.jpg" width="480" />  
+
+[video showing variangle attachment (screws are loose)](variangle.mp4)
+[video showing variangle attachment (screws are tight)](assembledDrive.mp4)
 
 
 * * * 
