@@ -1,31 +1,31 @@
 # quick instructions of the microdrive
 
 ## how the assembled drive looks like
-[video showing the drive](instructions/assembledDrive.mp4)
+[video showing the drive](assembledDrive.mp4)
 
 Side view  
-<img src="instructions/sideview.jpg" width="480" />  
+<img src="sideview.jpg" width="480" />  
 
 Back view  
-<img src="instructions/backview.jpg" width="480" />  
+<img src="backview.jpg" width="480" />  
 
 ## how the drive works
-[video showing how the drive works](instructions/howItWorks.mp4)
+[video showing how the drive works](howItWorks.mp4)
 
 ## how to assemble
-[video showing assembling process](instructions/assemble.mp4)
+[video showing assembling process](assemble.mp4)
 
 ## how to implant the probe (demo with a mock)
 1. position the drive on a stereotaxic frame  
-<img src="instructions/step1_positionDrive.jpg" width="480" />  
+<img src="step1_positionDrive.jpg" width="480" />  
 2. Fix the drive on the skull (with dental cement)  
-<img src="instructions/step2_fixOnSkull.jpg" width="480" />  
+<img src="step2_fixOnSkull.jpg" width="480" />  
 3. remove attachment from the holder  
-<img src="instructions/step3_removeAttachment.jpg" width="480" />  
+<img src="step3_removeAttachment.jpg" width="480" />  
 4. de-solder the connector and secure it wherever you want  
-<img src="instructions/step4_secureConnector.jpg" width="480" />  
+<img src="step4_secureConnector.jpg" width="480" />  
 5. remove the holder from the drive  
-<img src="instructions/step5_removeHolder.jpg" width="480" />  
+<img src="step5_removeHolder.jpg" width="480" />  
 
 ## how to recover the drive
 1. set the skull on a stereotaxic frame (after perfusion)  
@@ -38,15 +38,15 @@ Back view
 
 ## how the variangle attachment works
 when the screws are loose, the angles can be changed  
-[video showing variangle attachment (screws are loose)](instructions/variangle.mp4)
+[video showing variangle attachment (screws are loose)](variangle.mp4)
 
 when all 3 screws are pushing the bottom plate, the angle is fixed.  
 
 One extreme angle  
-<img src="instructions/extremeAngle.jpg" width="480" />  
+<img src="extremeAngle.jpg" width="480" />  
 
 Another extreme angle (the same attachment but different screw positioning)  
-<img src="instructions/anotherExtremeAngle.jpg" width="480" />  
+<img src="anotherExtremeAngle.jpg" width="480" />  
 
 
 * * * 
