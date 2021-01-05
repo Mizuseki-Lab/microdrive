@@ -5,9 +5,12 @@ The .stl files are optimized for Asiga Pico2 HD with NextDent Model.
 For other printers and/or resins, some adjustment may be needed.
 
 The drive is designed for a 1/2-inch 00-90 screw and a metal pole taken from a post terminal strip.
-The attachment is intended to be used with 3/8-inch 00-90 screws.
-To build the variangle attachment, 1/4-inch 000-120 screws and nuts are also needed
+The attachment is intended to be used with 3/8-inch 00-90 screws.  
+To build the variangle attachment, 1/4-inch 000-120 screws and nuts are also needed.
 
+Quick instructions are avirable at https://github.com/Mizuseki-Lab/microdrive/tree/master/instructions
+
+* * *
 The original idea of the drive is described in the following paper.
 
 Micro-drive and headgear for chronic implant and recovery of optoelectronic probes
@@ -17,7 +20,7 @@ doi:10.1038/s41598-017-03340-5
 https://www.nature.com/articles/s41598-017-03340-5
 
 The designs are desitributed under GNU GPLv3 license.
-The source file in f3d format can be found at /f3d/
+The source file in f3d format can be found at https://github.com/Mizuseki-Lab/microdrive/tree/master/f3d
 
 * * *
 Further customization has been done by Mihály Vöröslakos.
